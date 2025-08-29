@@ -3,12 +3,12 @@
 # Informacije o bazi podataka
 $type       = "mysql";
 $server     = "localhost";
-$db         = "chrono_shop";
+$db         = "";
 $port       = "8888";
 $charset    = "utf8mb4";
 
-$username   = "root";
-$password   = "root";
+$username   = "";
+$password   = "";
 
 # PDO konfiguracija
 $options    = [
